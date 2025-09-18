@@ -1,6 +1,6 @@
 # Netlify Developer Portfolio Starter (auto-annotated).
 
-![Developer Portfolio](https://assets.stackbit.com/docs/personal-nextjs-starter-thumb.png)
+![Developer] Portfolio](https://assets.stackbit.com/docs/personal-nextjs-starter-thumb.png)
 
 This is a full-fledged portfolio website built with Next.js, Tailwind CSS, [visual editor](https://docs.netlify.com/visual-editor/overview/) and the [Git Content Source](https://docs.netlify.com/create/content-sources/git/).
 
